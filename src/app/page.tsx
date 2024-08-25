@@ -7,15 +7,17 @@ const page = () => {
     <div className="pt-6 md:p-8 text-center md:text-left space-y-4">
       <blockquote>
         <p className="text-lg font-medium">
-          “dedicated professioanl with lot of potential in different aspect of life and wants to learn more .”
+          “Tailwind CSS is the only framework that I've seen scale
+        on large teams. It’s easy to customize, adapts to any design,
+        and the build size is tiny.”
         </p>
       </blockquote>
       <figcaption className="font-medium">
         <div className="text-sky-500 dark:text-sky-400">
-          Sadia javed
+          Sarah Dayan
         </div>
         <div className="text-slate-700 dark:text-slate-500">
-          doctor, pakistan
+          Staff Engineer, Algolia
         </div>
       </figcaption>
     </div>
