@@ -12,7 +12,7 @@ const page = () => {
       </blockquote>
       <figcaption className="font-medium">
         <div className="text-sky-500 dark:text-sky-400">
-          Sadia
+          Sadia javed
         </div>
         <div className="text-slate-700 dark:text-slate-500">
           doctor, pakistan
